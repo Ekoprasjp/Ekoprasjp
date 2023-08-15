@@ -1,9 +1,13 @@
-### Hi there 👋
+# Halo semua! 
+Perkenalkan nama saya **Eko Prasetyo Joko Purnomo**.\
+Saya seorang **Mahasiswa** di [Bangkit](https://grow-google.translate.goog/intl/id_id/bangkit/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc&tab=machine-learning&_x_tr_hist=true)).
 
-**My Name is Eko Prasetyo Joko Purnomo, My nickname is Eko**
-
-Now, I'm a student at Universitas Islam Raden Rahmat Malang.\
-I have big interest to learn Android or mobile development.\
-I'm currently learn Android Path development in Bangkit Program by Kemendikbudristek.
-
-If you interested to me, please follow me on **[Linkedin](https://www.linkedin.com/in/masekopras/)**.
+Saya memeiliki tekat kuat dalam belajar android developer karena saya ingin memnjadi programer sehingga mampu mengimplementasikan ilmu saya di dunia nyata
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/masekopras/)ku ya.
+ 
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>

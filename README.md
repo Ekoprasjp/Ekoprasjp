@@ -1,6 +1,6 @@
 # Halo semua! 
 Perkenalkan nama saya **Eko Prasetyo Joko Purnomo**.\
-Saya seorang **Mahasiswa** di [Bangkit](https://grow-google.translate.goog/intl/id_id/bangkit/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc&tab=machine-learning&_x_tr_hist=true)).
+Saya seorang **Mahasiswa** di [Bangkit Academy](https://grow-google.translate.goog/intl/id_id/bangkit/?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc&tab=machine-learning&_x_tr_hist=true).
 
 Saya memiliki tekat kuat dalam belajar android developer karena saya ingin memnjadi programer yang mampu mengimplementasikan ilmu saya secara nyata
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/masekopras/)ku ya.
